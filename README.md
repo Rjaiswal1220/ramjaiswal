@@ -1,20 +1,13 @@
 # ramjaiswal<h1 align = "center">Hello, I'm ram jaiswal 👋</h1>
 <h3 align = "center">I'm student in techsera </h3>
 
-<!--<a href="https://linkedin.com/in/(https://www.linkedin.com/in/renuka-maradagi-a06934212/)">
-  <img align="left" alt="Renuka Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>-->
+ 
 <a href="https://github.com/Rjaiswal1220">
   <img align="left" alt="Ram Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <br/>
 <br/>
 
-
-
-[![Linkedin Badge](https://img.shields.io/badge/-Renuka-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash--01629954/)](https://www.linkedin.com/in/renuka-maradagi-a06934212/)
-[![Website Badge](https://img.shields.io/badge/WebSite-Renuka-yellow)](https://www.Renuka.me)
-[![Website Badge](https://img.shields.io/badge/StackOverflow-Renuka-blue)](https://stackoverflow.com/users/16351154/renuka-maradagi?tab=profile)
 
 Strong in design and integration with intuitive problem-solving skills. Proficient in C, JAVA, HTML, CSS, SQL and JAVASCRIPT. Passionate about implementing and launching new projects. Ability to translate business requirements into technical solutions. Looking to start the career as an entry-level software engineer with a reputed firm driven by technology.
 💬 Ask me about ...- 🌱 I’m currently learning ...
